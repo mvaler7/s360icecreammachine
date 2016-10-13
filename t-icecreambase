@@ -34,6 +34,7 @@
             </step>
             <step>
                 <cmd>Cover mixture and place in refridgerator.</cmd>
+                <info>Label clearly</info>
             </step>
         </steps>
     </taskbody>
